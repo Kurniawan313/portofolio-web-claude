@@ -19,9 +19,9 @@ const SITE = {
   peran: "Digital Partner untuk UMKM",
   lokasi: "Malang, Jawa Timur",
   tagline: "Saya bangun website, aplikasi bisnis, dan panduan praktis yang bikin usaha kecil jalan lebih rapi.",
-  waNumber: "6281234567890",                        // GANTI: nomor WA aktif Anda (format 62, tanpa +)
+  waNumber: "6285325730777",                        // GANTI: nomor WA aktif Anda (format 62, tanpa +)
   waPesanDefault: "Halo Nur, saya lihat portofolio Anda dan tertarik diskusi soal jasa website/aplikasi untuk usaha saya.",
-  email: "nama@domainanda.com",                      // GANTI
+  email: "nur.abdussalaam@gmail.com",                      // GANTI
   domain: "https://domainanda.com",                  // GANTI: domain yang sudah Anda siapkan
   instagram: "https://instagram.com/username_anda",  // GANTI atau kosongkan ""
 };
